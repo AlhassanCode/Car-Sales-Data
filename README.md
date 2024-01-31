@@ -16,7 +16,7 @@ In this Power BI project, I leveraged business intelligence tools to analyze car
 
 No specific libraries were used for this Power BI project, as the analysis was performed within the Power BI Desktop environment. The sales, dealers, and models data were seamlessly loaded and explored within the Power BI interface.
 
-## Data Cleaning and Transformation (Done within Power BI)
+##  Data Cleaning and Transformation (Power Query)
 
 - **Handling Null Values**: Ensured data integrity by handling null values within Power BI's Power Query.
 - **Fix Engine Size Format**: Corrected the engine size format for accurate analysis.
@@ -37,13 +37,14 @@ No specific libraries were used for this Power BI project, as the analysis was p
 
 ### 3. Compare Profit Between Brands
 
-- Generated a visually impactful stacked bar chart or table to effectively compare profits between various car brands.
+- Generated a visually impactful stacked bar chart to effectively compare profits between various car brands.
 - Utilized the 'Brand' and 'Profit' fields from the sales data to highlight key insights.
 
 ### 4. Show Revenue and Sales by City Dealer
 
 - Crafted a dynamic map visual representation illustrating both revenue and sales count by city dealer.
 - Utilized the 'City Dealer', 'Revenue', and 'Total Sales' fields from the sales data for a comprehensive overview.
+- I added the Quantity sold as part of tooltip so as to shows the quantiy sold for every city.
 
 ## Conclusion
 
