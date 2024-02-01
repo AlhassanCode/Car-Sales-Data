@@ -50,5 +50,5 @@ No specific libraries were used for this Power BI project, as the analysis was p
 
 This Power BI project successfully showcased my ability to analyze and visualize car sales data, providing actionable insights into revenue by country, identifying top-selling cars, comparing profits between brands, and detailing revenue and sales metrics by city dealer. The project demonstrates my proficiency in leveraging Power BI for impactful data analysis and visualization.
 
-The Power BI report can be accessed in the [portfolio_project.pbix](portfolio_project.pbix) file.
+The Power BI report can be accessed in the [https://github.com/AlhassanCode/Car-Sales-Data/blob/main/Car%20Sales.pbix) file.
 
